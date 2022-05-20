@@ -1,0 +1,49 @@
+# Conceptos Básicos NodeJS
+
+## NODEJS
+1. **¿Qué es NodeJS?**
+NODEJS es una plataforma de desarrollo de software libre, escrita en JavaScript, que permite crear aplicaciones web y de escritorio.
+
+## Comandos Básicos NodeJS
+
+- **node --version**: indica la versión de nodejs
+- **node ejemplo.js**: ejecuta un archivo de nodejs
+
+
+---
+
+
+## Estrucutra de package.json
+1. **¿Qué es package.json?**: es un archivo que contiene la información de un paquete npm.
+
+{
+  "name": "ejemplo_1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js", -> va a ejecutar el archivo index.js
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
+
+- **name**: indica el nombre del proyecto.
+- **version**: indica la versión del proyecto.
+- **description**: indica una descripción del proyecto.
+- **main**: indica el archivo principal del proyecto.
+- **scripts**: indica que se va a ejecutar. npm run start ejecuta el comando start. 
+- **author**: indica el autor del proyecto.
+- **license**: indica la licencia del proyecto.
+
+
+---
+
+## API REST con NodeJS
+1. **¿Qué es API REST?**: es una forma de comunicación entre dos o más aplicaciones.
+
+
+
+    
+
