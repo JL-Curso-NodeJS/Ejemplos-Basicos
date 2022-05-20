@@ -1,0 +1,36 @@
+# Conceptos Básicos NPM
+
+## NPM
+1. ¿Qué es NPM? 
+NPM es una herramienta que permite gestionar paquetes de nodejs.
+
+## Comandos Básicos NPM
+
+- **npm --version**: indica la versión de npm
+
+- **npm install**: instala un paquete npm
+- **npm uninstall**: desinstala un paquete npm
+- **npm install -g**: instala un paquete npm globalmente
+
+- **npm list**: lista los paquetes instalados
+- **npm update**: actualiza los paquetes instalados
+- **npm search**: busca un paquete npm
+
+- **npm init**: crea un archivo package.json. Se utiliza para empezar a crear un proyecto nuevo.
+- **npm start**: ejecuta el comando start del archivo package.json
+- **npm test**: ejecuta el comando test del archivo package.json
+
+- **npm run**: ejecuta un comando del archivo package.json
+- **npm run start**: ejecuta el comando start del archivo package.json
+- **npm run test**: ejecuta el comando test del archivo package.json
+
+- **npm i express**: instala express
+
+- **npm i**: instala todos los paquetes de la lista de paquetes de package.json
+
+
+
+
+
+    
+
