@@ -1,0 +1,24 @@
+# Conceptos Básicos Express
+
+## Express
+1. ¿Qué es Express?
+Express es un framework de NodeJS que permite crear aplicaciones web y de escritorio.
+
+## Comandos Básicos Express
+
+- **npm install express**: instala express
+- **npm i express**: instala express
+
+Cuando se instala express se crea un archivo package-lock.json que contiene la información de los paquetes que se instalaron.
+Además se agrega al archivo package.json la siguiente información:
+
+{
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
+
+Se crea una carpeta llamada "node_modules" y dentro se crea una carpeta llamada "express" con la versión 4.16.4.
+La carpeta node_modules es una carpeta que contiene todos los paquetes instalados en el proyecto.
+
+
