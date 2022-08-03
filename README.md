@@ -5,7 +5,7 @@
 1. Descargar e instalar NODE.JS y NPM
 2. Acceder a la carpeta de ejemplo_1
 3. Ejecutar el comando `npm start` para iniciar el servidor
-4. Acceder a la URL http://localhost:3000/
+4. Acceder a la URL http://localhost:5000/
 5. Verificar que el servidor está funcionando correctamente
 
 ## EJEMPLO 2
@@ -13,7 +13,7 @@
 2. Acceder a la carpeta de ejemplo_2
 3. Ejecutar el comando `npm install` para instalar las dependencias (en este caso, express)
 4. Ejecutar el comando `npm start` para iniciar el servidor
-5. Acceder a la URL http://localhost:3000/
+5. Acceder a la URL http://localhost:5000/
 6. Verificar que el servidor está funcionando correctamente
 
 ## EJEMPLO 3
@@ -22,7 +22,7 @@
 3. Ejecutar el comando `npm install` para instalar las dependencias (en este caso, express)
 4. Instalar nodemon para que el servidor se reinicie automáticamente cada vez que se modifique algún archivo. Ejecutar el comando `npm install -g nodemon`
 5. Ejecutar el comando `npm start` para iniciar el servidor
-6. Acceder a la URL http://localhost:3000/
+6. Acceder a la URL http://localhost:5000/
 7. Verificar que el servidor está funcionando correctamente
 
 
