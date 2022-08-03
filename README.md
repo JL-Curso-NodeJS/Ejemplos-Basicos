@@ -1,6 +1,8 @@
-# PASOS A SEGUIR PARA EJECUTAR LOS EJEMPLOS
+Estos ejemplos corresponden al módulo 2 del curso: Desarrollo de Servicios Web con NodeJs
 
-## EJEMPLO 1
+## PASOS A SEGUIR PARA EJECUTAR LOS EJEMPLOS
+
+### EJEMPLO 1
 
 1. Descargar e instalar NODE.JS y NPM
 2. Acceder a la carpeta de ejemplo_1
@@ -8,7 +10,7 @@
 4. Acceder a la URL http://localhost:5000/
 5. Verificar que el servidor está funcionando correctamente
 
-## EJEMPLO 2
+### EJEMPLO 2
 1. Descargar e instalar NODE.JS y NPM
 2. Acceder a la carpeta de ejemplo_2
 3. Ejecutar el comando `npm install` para instalar las dependencias (en este caso, express)
@@ -16,7 +18,7 @@
 5. Acceder a la URL http://localhost:5000/
 6. Verificar que el servidor está funcionando correctamente
 
-## EJEMPLO 3
+### EJEMPLO 3
 1. Descargar e instalar NODE.JS y NPM
 2. Acceder a la carpeta de ejemplo_3
 3. Ejecutar el comando `npm install` para instalar las dependencias (en este caso, express)
