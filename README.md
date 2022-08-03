@@ -1,4 +1,4 @@
-Estos ejemplos corresponden al módulo 2 del curso: Desarrollo de Servicios Web con NodeJs
+Estos ejemplos corresponden al Módulo 2 del curso: *Desarrollo de Servicios Web con NodeJs*
 
 ## PASOS A SEGUIR PARA EJECUTAR LOS EJEMPLOS
 
