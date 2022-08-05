@@ -13,20 +13,19 @@ app.use(express.urlencoded({ extended: true })); // permite que express entienda
 
 // cuando es GET recibo el dato por la url
 app.get('/:nombre', (req, res) => { // req: request, res: response
-    res.send('Hola ' + req.params.nombre); // envia una respuesta
+    res.send('Hola ' + req.params.nombre); // envia una respuesta y extrae el nombre del parámetro
 });
 
 // cuando es POST recibo el dato por el BODY
 app.post('/', (req, res) => { // req: request, res: response
-    const { nombre } = req.body; // extraigo el nombre del body
-    res.send('Hola ' + nombre); // envia una respuesta
+    res.send('Hola ' + req.body.nombre); // envia una respuesta y extraigo el nombre del body
 });
 
 
 // ---------- PUERTO ----------
-app.listen(5000); // escucha en el puerto 5000
-console.log('Servidor corriendo en el puerto 5000');
+app.listen(8000); // escucha en el puerto 8000
+console.log('Servidor corriendo en el puerto 8000');
 
 
 // COMENTARIOS
-// al querer utilizar req.body.nombre, se debe utilizar  --> app.use(express.json());
+// al querer utilizar req.body, se debe utilizar  --> app.use(express.json());
