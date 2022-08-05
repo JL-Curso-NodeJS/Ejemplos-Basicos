@@ -23,8 +23,8 @@ app.post('/', (req, res) => { // req: request, res: response
 
 
 // ---------- PUERTO ----------
-app.listen(8000); // escucha en el puerto 8000
-console.log('Servidor corriendo en el puerto 8000');
+app.listen(5000); // escucha en el puerto 5000
+console.log('Servidor corriendo en el puerto 5000');
 
 
 // COMENTARIOS
