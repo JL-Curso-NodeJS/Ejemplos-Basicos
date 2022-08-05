@@ -9,3 +9,4 @@ http.createServer(function(req, res) { // crea un servidor http
 
 console.log('Servidor ejemplo_1 corriendo en http://localhost:5000'); // muestra un mensaje en la consola
 
+// PARA EJECUTARLO COMANDO: npm start
