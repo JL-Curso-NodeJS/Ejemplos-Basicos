@@ -27,4 +27,4 @@ Estos ejemplos corresponden al Módulo 2 del curso: *Desarrollo de Servicios Web
 6. Verificar que el servidor está funcionando correctamente
 
 
-[![Run in Postman](https://run.pstmn.io/button.svg)](https://app.getpostman.com/run-collection/21047550-c3571046-6b68-4ae0-b03d-2c8732e63dc2?action=collection%2Ffork&collection-url=entityId%3D21047550-c3571046-6b68-4ae0-b03d-2c8732e63dc2%26entityType%3Dcollection%26workspaceId%3D1f4f77c5-eb75-4ee8-99d0-fbd51cc092df)
+[![Run in Postman](https://run.pstmn.io/button.svg)](https://app.getpostman.com/run-collection/21047550-c3571046-6b68-4ae0-b03d-2c8732e63dc2?action=collection%2Ffork&collection-url=entityId%3D21047550-c3571046-6b68-4ae0-b03d-2c8732e63dc2%26entityType%3Dcollection%26workspaceId%3D1f4f77c5-eb75-4ee8-99d0-fbd51cc092df#?env%5BLOCALHOST%5D=W3sia2V5IjoiVVJMIiwidmFsdWUiOiJodHRwOi8vbG9jYWxob3N0OjUwMDAiLCJlbmFibGVkIjp0cnVlfV0=)
