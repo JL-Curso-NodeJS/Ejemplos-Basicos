@@ -10,6 +10,8 @@ Estos ejemplos corresponden al Módulo 2 del curso: *Desarrollo de Servicios Web
 4. Acceder a la URL http://localhost:5000/
 5. Verificar que el servidor está funcionando correctamente
 
+#### Video con explicación: https://youtu.be/2jaWjNCwurM
+
 ### EJEMPLO 2
 1. Descargar e instalar NODE.JS y NPM
 2. Acceder a la carpeta de ejemplo_2
@@ -17,6 +19,8 @@ Estos ejemplos corresponden al Módulo 2 del curso: *Desarrollo de Servicios Web
 4. Ejecutar el comando `npm start` para iniciar el servidor
 5. Acceder a la URL http://localhost:5000/
 6. Verificar que el servidor está funcionando correctamente
+
+#### Video con explicación: https://youtu.be/j8mequkdhEs
 
 ### EJEMPLO 3
 1. Descargar e instalar NODE.JS y NPM
